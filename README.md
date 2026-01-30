@@ -1,3 +1,7 @@
+### Note: 
+This project was fully developed by Rasmi and me, and the same [*repo*](https://github.com/rasmi1-ux/Language-Aware-Grasping-in-Open-Scenes/tree/master) can be found on his account.
+
+
 # LAGOS: Language-Aware Grasping in Open Scenes
 
 The ability to grasp objects in-the-wild from open-ended language instructions constitutes a fundamental challenge in robotics. We propose **LAGOS (Language-Aware Grasping in Open Scenes)**, an open-world robotic grasping pipeline that combines **SAM 2.1** and **Qwen3-VL** to enable grounded perception, physical reasoning, and action execution from open-ended natural language instructions.  
@@ -155,6 +159,7 @@ Please cite the original OWG work as follows:
   year    = {2024}
 }
 ```
+
 
 
 
