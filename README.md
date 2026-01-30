@@ -150,16 +150,11 @@ python reader.py logs:false
 
 ## 🧪 Example
 
-### Real-World Grasping Demo
 
 <p align="center">
   <video width="900" controls>
-    <source src="assets/exp.MP4" type="video/mp4">
+    <source src="assets/example.mp4" type="video/mp4">
   </video>
-</p>
-
-<p align="center">
-  <i>Example execution of the LAGOS pipeline on a real-world grasping task using open-ended language instructions.</i>
 </p>
 
 
@@ -179,6 +174,7 @@ Please cite the original OWG work as follows:
   year    = {2024}
 }
 ```
+
 
 
 
